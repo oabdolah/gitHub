@@ -1,5 +1,13 @@
 package workflow;
 
 public class FeatureB {
-    // new class
+    //conflict
+    //conflict
+    //conflict
+    //conflict
+    //conflict
+    //conflict
+    //conflict
+    //conflict
+    //conflict
 }
